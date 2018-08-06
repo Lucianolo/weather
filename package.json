@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "outside": "bin/weather"
+    "weather": "bin/weather"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
